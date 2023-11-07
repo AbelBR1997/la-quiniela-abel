@@ -1,6 +1,6 @@
 ## LaQuiniela of LaLiga
 
-Team members: Enric - Omar - Abel
+Team members: Oriol - Omar - Abel
 
 This repo contains the skeleton for you to build your first ML project. Use the data in ```laliga.sqlite``` to build a ML model that predicts the outcome of a matchday in LaLiga (Spanish Football League).
 
